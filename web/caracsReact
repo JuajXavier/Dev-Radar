@@ -1,0 +1,6 @@
+3 pontos
+- Componente: uma função que retorna algum conteúdo html, css ou js. Primeira letra sempre maiúscula. Um bloco isolado de codigos ali que não interfere no restante da aplicação.
+- Propriedade: atributo de um componente, por exemplo atribuir um titulo a um header. Pra por js dentro de html, tem que por chaves {}. Infos que um componetente pai passa pra um componete filho.
+- Estado: função mantida pelo componente, lida e atualizada pelo proprio componete. Infos mantidas pelo componente (imnutabilidade)
+
+Quando tem muitas coisas uma embaixo da outra, precisam estar dentro de chaves maiores, pode ser <div><div/> ou simplesmente <></>.

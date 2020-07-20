@@ -1,0 +1,9 @@
+Normalmente:
+
+Requisições HTTP (GET, POST, PUT, DELETE)
+
+Requisição frontend -> backend -> Resposta frontend
+
+Sem a Requisição:
+
+precisaria de protocolo WebSocket, instalando o framework/biblioteca socket.io (yarn add ou npm install)
